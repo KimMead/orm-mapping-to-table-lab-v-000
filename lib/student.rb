@@ -4,7 +4,7 @@ class Student
 
   def initialize(name, grade)
     @name = name
-    @grade = []
+    @grade = grade
     @id = some_id
 
   end
